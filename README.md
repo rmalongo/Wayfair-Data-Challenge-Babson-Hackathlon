@@ -29,7 +29,7 @@ Design a predictive model:
 * y: whether to adopt rich advertisement
 * x:  the characteristics of a supplier
 * Compute Opportunity size
-  *   Projected conversion rate / revenue
-  *   Content optimization: best combination of product class + content type + modules amount
+  *  Projected conversion rate / revenue
+  *  Content optimization: best combination of product class + content type + modules amount
 # Impact
 
