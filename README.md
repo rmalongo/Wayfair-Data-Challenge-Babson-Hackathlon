@@ -31,5 +31,5 @@ Design a predictive model:
 * Compute Opportunity size
   *  Projected conversion rate / revenue
   *  Content optimization: best combination of product class + content type + modules amount
-# Impact
-
+# Impact. 
+On March 24, the Babson Hackathlon was cancelled due to implications from Covid-19
