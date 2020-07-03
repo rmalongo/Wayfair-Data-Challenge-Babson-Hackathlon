@@ -26,10 +26,10 @@ Merchandising Leadership is looking to you to create a 5-7 minute executive leve
 outlines your findings and recommendations
 # Vision:
 Design a predictive model:
-y: whether to adopt rich advertisement
-x:  the characteristics of a supplier
-Compute Opportunity size
-Projected conversion rate / revenue
-Content optimization: best combination of product class + content type + modules amount
+* y: whether to adopt rich advertisement
+* x:  the characteristics of a supplier
+* Compute Opportunity size
+  *   Projected conversion rate / revenue
+  *   Content optimization: best combination of product class + content type + modules amount
 # Impact
 
