@@ -4,14 +4,14 @@ Analyse SKU level data and suggest best global strategy for increasing supplier 
 https://drive.google.com/drive/u/1/folders/1RJ3syCeGZ5y5JGSgsA61NW6id_5U-CaZ
 
 # Problem Statment
-*Our customers use visual media to inform, educate, and inspire purchasing decisions. You recently
+"*Our customers use visual media to inform, educate, and inspire purchasing decisions. You recently
 launched an A/B test that showed when Rich Media (i.e. video, 3D imagery, and interactive content) is
 present on our Product Details Page (PDP), we see upwards of 7% conversion rate lift depending on the
 Product Class and content type (see Exhibit A & B for details). The Wayfair Merchandising team is
 looking to capitalize on this opportunity by increasing Rich Media content across the catalog. Not every
 product has this content as we rely on Suppliers to use our proprietary visual merchandising platform,
 called WayMore, to design a PDP layout that differentiates their products (see exhibit C below for an
-example*. 
+example*."
 
 # Scope:
 Wayfair provided multiple datasets at the product class, Supplier, and SKU level that will help
